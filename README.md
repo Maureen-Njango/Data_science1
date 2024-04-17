@@ -13,5 +13,8 @@ They are easy to understand.
 They can hold elements of different types.
 Tuples use less memory
 Tuples can be used as dictionary keys containing immutable values  like list, numbers and strings
+##Queues
+A line off people standing or in cars waiting for something.Its is a datastructure that Elements stored operate in a first in first out principles.
+The elements to be inserted  first are to be removed the first.
 
 
